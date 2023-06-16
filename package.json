@@ -1,0 +1,16 @@
+{
+  "name": "lofthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "live-server C:\\web\\LoftHouse",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live": "^0.1.25-beta.0",
+    "server": "^1.0.38"
+  }
+}
